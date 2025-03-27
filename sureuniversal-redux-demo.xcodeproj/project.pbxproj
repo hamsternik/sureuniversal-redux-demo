@@ -24,9 +24,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		625D18F62D933DBE00365769 /* sure-universal-assignment-redux-v0.1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "sure-universal-assignment-redux-v0.1.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		625D19062D933DBF00365769 /* sure-universal-assignment-redux-v0.1Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "sure-universal-assignment-redux-v0.1Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		625D19102D933DBF00365769 /* sure-universal-assignment-redux-v0.1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "sure-universal-assignment-redux-v0.1UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		625D18F62D933DBE00365769 /* sureuniversal-redux-demo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "sureuniversal-redux-demo.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		625D19062D933DBF00365769 /* sureuniversal-redux-demoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "sureuniversal-redux-demoTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		625D19102D933DBF00365769 /* sureuniversal-redux-demoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "sureuniversal-redux-demoUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -85,9 +85,9 @@
 		625D18F72D933DBE00365769 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				625D18F62D933DBE00365769 /* sure-universal-assignment-redux-v0.1.app */,
-				625D19062D933DBF00365769 /* sure-universal-assignment-redux-v0.1Tests.xctest */,
-				625D19102D933DBF00365769 /* sure-universal-assignment-redux-v0.1UITests.xctest */,
+				625D18F62D933DBE00365769 /* sureuniversal-redux-demo.app */,
+				625D19062D933DBF00365769 /* sureuniversal-redux-demoTests.xctest */,
+				625D19102D933DBF00365769 /* sureuniversal-redux-demoUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -95,9 +95,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		625D18F52D933DBE00365769 /* sure-universal-assignment-redux-v0.1 */ = {
+		625D18F52D933DBE00365769 /* sureuniversal-redux-demo */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 625D191A2D933DBF00365769 /* Build configuration list for PBXNativeTarget "sure-universal-assignment-redux-v0.1" */;
+			buildConfigurationList = 625D191A2D933DBF00365769 /* Build configuration list for PBXNativeTarget "sureuniversal-redux-demo" */;
 			buildPhases = (
 				625D18F22D933DBE00365769 /* Sources */,
 				625D18F32D933DBE00365769 /* Frameworks */,
@@ -110,16 +110,16 @@
 			fileSystemSynchronizedGroups = (
 				625D18F82D933DBE00365769 /* sure-universal-assignment-redux-v0.1 */,
 			);
-			name = "sure-universal-assignment-redux-v0.1";
+			name = "sureuniversal-redux-demo";
 			packageProductDependencies = (
 			);
 			productName = "sure-universal-assignment-redux-v0.1";
-			productReference = 625D18F62D933DBE00365769 /* sure-universal-assignment-redux-v0.1.app */;
+			productReference = 625D18F62D933DBE00365769 /* sureuniversal-redux-demo.app */;
 			productType = "com.apple.product-type.application";
 		};
-		625D19052D933DBF00365769 /* sure-universal-assignment-redux-v0.1Tests */ = {
+		625D19052D933DBF00365769 /* sureuniversal-redux-demoTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 625D191D2D933DBF00365769 /* Build configuration list for PBXNativeTarget "sure-universal-assignment-redux-v0.1Tests" */;
+			buildConfigurationList = 625D191D2D933DBF00365769 /* Build configuration list for PBXNativeTarget "sureuniversal-redux-demoTests" */;
 			buildPhases = (
 				625D19022D933DBF00365769 /* Sources */,
 				625D19032D933DBF00365769 /* Frameworks */,
@@ -133,16 +133,16 @@
 			fileSystemSynchronizedGroups = (
 				625D19092D933DBF00365769 /* sure-universal-assignment-redux-v0.1Tests */,
 			);
-			name = "sure-universal-assignment-redux-v0.1Tests";
+			name = "sureuniversal-redux-demoTests";
 			packageProductDependencies = (
 			);
 			productName = "sure-universal-assignment-redux-v0.1Tests";
-			productReference = 625D19062D933DBF00365769 /* sure-universal-assignment-redux-v0.1Tests.xctest */;
+			productReference = 625D19062D933DBF00365769 /* sureuniversal-redux-demoTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		625D190F2D933DBF00365769 /* sure-universal-assignment-redux-v0.1UITests */ = {
+		625D190F2D933DBF00365769 /* sureuniversal-redux-demoUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 625D19202D933DBF00365769 /* Build configuration list for PBXNativeTarget "sure-universal-assignment-redux-v0.1UITests" */;
+			buildConfigurationList = 625D19202D933DBF00365769 /* Build configuration list for PBXNativeTarget "sureuniversal-redux-demoUITests" */;
 			buildPhases = (
 				625D190C2D933DBF00365769 /* Sources */,
 				625D190D2D933DBF00365769 /* Frameworks */,
@@ -156,11 +156,11 @@
 			fileSystemSynchronizedGroups = (
 				625D19132D933DBF00365769 /* sure-universal-assignment-redux-v0.1UITests */,
 			);
-			name = "sure-universal-assignment-redux-v0.1UITests";
+			name = "sureuniversal-redux-demoUITests";
 			packageProductDependencies = (
 			);
 			productName = "sure-universal-assignment-redux-v0.1UITests";
-			productReference = 625D19102D933DBF00365769 /* sure-universal-assignment-redux-v0.1UITests.xctest */;
+			productReference = 625D19102D933DBF00365769 /* sureuniversal-redux-demoUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -186,7 +186,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 625D18F12D933DBE00365769 /* Build configuration list for PBXProject "sure-universal-assignment-redux-v0.1" */;
+			buildConfigurationList = 625D18F12D933DBE00365769 /* Build configuration list for PBXProject "sureuniversal-redux-demo" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -200,9 +200,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				625D18F52D933DBE00365769 /* sure-universal-assignment-redux-v0.1 */,
-				625D19052D933DBF00365769 /* sure-universal-assignment-redux-v0.1Tests */,
-				625D190F2D933DBF00365769 /* sure-universal-assignment-redux-v0.1UITests */,
+				625D18F52D933DBE00365769 /* sureuniversal-redux-demo */,
+				625D19052D933DBF00365769 /* sureuniversal-redux-demoTests */,
+				625D190F2D933DBF00365769 /* sureuniversal-redux-demoUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -258,12 +258,12 @@
 /* Begin PBXTargetDependency section */
 		625D19082D933DBF00365769 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 625D18F52D933DBE00365769 /* sure-universal-assignment-redux-v0.1 */;
+			target = 625D18F52D933DBE00365769 /* sureuniversal-redux-demo */;
 			targetProxy = 625D19072D933DBF00365769 /* PBXContainerItemProxy */;
 		};
 		625D19122D933DBF00365769 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 625D18F52D933DBE00365769 /* sure-universal-assignment-redux-v0.1 */;
+			target = 625D18F52D933DBE00365769 /* sureuniversal-redux-demo */;
 			targetProxy = 625D19112D933DBF00365769 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -321,7 +321,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.6;
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
@@ -378,7 +378,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.6;
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
@@ -399,22 +399,27 @@
 				DEVELOPMENT_TEAM = C5B4S79D6V;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.developer-tools";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
 				IPHONEOS_DEPLOYMENT_TARGET = 17.6;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.0;
+				MARKETING_VERSION = 0.1;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.sureuniversal.sure-universal-assignment-redux-v0-1";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -429,22 +434,27 @@
 				DEVELOPMENT_TEAM = C5B4S79D6V;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.developer-tools";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
 				IPHONEOS_DEPLOYMENT_TARGET = 17.6;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.0;
+				MARKETING_VERSION = 0.1;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.sureuniversal.sure-universal-assignment-redux-v0-1";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
@@ -456,14 +466,18 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = C5B4S79D6V;
 				GENERATE_INFOPLIST_FILE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.6;
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.sureuniversal.sure-universal-assignment-redux-v0-1Tests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/sure-universal-assignment-redux-v0.1.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/sure-universal-assignment-redux-v0.1";
+				TARGETED_DEVICE_FAMILY = 1;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/sureuniversal-redux-demo.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/sureuniversal-redux-demo";
 			};
 			name = Debug;
 		};
@@ -475,14 +489,18 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = C5B4S79D6V;
 				GENERATE_INFOPLIST_FILE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.6;
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.sureuniversal.sure-universal-assignment-redux-v0-1Tests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/sure-universal-assignment-redux-v0.1.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/sure-universal-assignment-redux-v0.1";
+				TARGETED_DEVICE_FAMILY = 1;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/sureuniversal-redux-demo.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/sureuniversal-redux-demo";
 			};
 			name = Release;
 		};
@@ -493,12 +511,17 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = C5B4S79D6V;
 				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.6;
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.sureuniversal.sure-universal-assignment-redux-v0-1UITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 				TEST_TARGET_NAME = "sure-universal-assignment-redux-v0.1";
 			};
 			name = Debug;
@@ -510,12 +533,17 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = C5B4S79D6V;
 				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.6;
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.sureuniversal.sure-universal-assignment-redux-v0-1UITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 				TEST_TARGET_NAME = "sure-universal-assignment-redux-v0.1";
 			};
 			name = Release;
@@ -523,7 +551,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		625D18F12D933DBE00365769 /* Build configuration list for PBXProject "sure-universal-assignment-redux-v0.1" */ = {
+		625D18F12D933DBE00365769 /* Build configuration list for PBXProject "sureuniversal-redux-demo" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				625D19182D933DBF00365769 /* Debug */,
@@ -532,7 +560,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		625D191A2D933DBF00365769 /* Build configuration list for PBXNativeTarget "sure-universal-assignment-redux-v0.1" */ = {
+		625D191A2D933DBF00365769 /* Build configuration list for PBXNativeTarget "sureuniversal-redux-demo" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				625D191B2D933DBF00365769 /* Debug */,
@@ -541,7 +569,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		625D191D2D933DBF00365769 /* Build configuration list for PBXNativeTarget "sure-universal-assignment-redux-v0.1Tests" */ = {
+		625D191D2D933DBF00365769 /* Build configuration list for PBXNativeTarget "sureuniversal-redux-demoTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				625D191E2D933DBF00365769 /* Debug */,
@@ -550,7 +578,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		625D19202D933DBF00365769 /* Build configuration list for PBXNativeTarget "sure-universal-assignment-redux-v0.1UITests" */ = {
+		625D19202D933DBF00365769 /* Build configuration list for PBXNativeTarget "sureuniversal-redux-demoUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				625D19212D933DBF00365769 /* Debug */,

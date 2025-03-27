@@ -6,7 +6,7 @@
 //
 
 import XCTest
-@testable import sure_universal_assignment_redux_v0_1
+@testable import sureuniversal_redux_demo
 
 final class sure_universal_assignment_redux_v0_1Tests: XCTestCase {
 
