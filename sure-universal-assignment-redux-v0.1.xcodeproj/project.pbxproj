@@ -1,0 +1,565 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		625D19072D933DBF00365769 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 625D18EE2D933DBE00365769 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 625D18F52D933DBE00365769;
+			remoteInfo = "sure-universal-assignment-redux-v0.1";
+		};
+		625D19112D933DBF00365769 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 625D18EE2D933DBE00365769 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 625D18F52D933DBE00365769;
+			remoteInfo = "sure-universal-assignment-redux-v0.1";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		625D18F62D933DBE00365769 /* sure-universal-assignment-redux-v0.1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "sure-universal-assignment-redux-v0.1.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		625D19062D933DBF00365769 /* sure-universal-assignment-redux-v0.1Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "sure-universal-assignment-redux-v0.1Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		625D19102D933DBF00365769 /* sure-universal-assignment-redux-v0.1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "sure-universal-assignment-redux-v0.1UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		625D18F82D933DBE00365769 /* sure-universal-assignment-redux-v0.1 */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "sure-universal-assignment-redux-v0.1";
+			sourceTree = "<group>";
+		};
+		625D19092D933DBF00365769 /* sure-universal-assignment-redux-v0.1Tests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "sure-universal-assignment-redux-v0.1Tests";
+			sourceTree = "<group>";
+		};
+		625D19132D933DBF00365769 /* sure-universal-assignment-redux-v0.1UITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "sure-universal-assignment-redux-v0.1UITests";
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		625D18F32D933DBE00365769 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		625D19032D933DBF00365769 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		625D190D2D933DBF00365769 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		625D18ED2D933DBE00365769 = {
+			isa = PBXGroup;
+			children = (
+				625D18F82D933DBE00365769 /* sure-universal-assignment-redux-v0.1 */,
+				625D19092D933DBF00365769 /* sure-universal-assignment-redux-v0.1Tests */,
+				625D19132D933DBF00365769 /* sure-universal-assignment-redux-v0.1UITests */,
+				625D18F72D933DBE00365769 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		625D18F72D933DBE00365769 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				625D18F62D933DBE00365769 /* sure-universal-assignment-redux-v0.1.app */,
+				625D19062D933DBF00365769 /* sure-universal-assignment-redux-v0.1Tests.xctest */,
+				625D19102D933DBF00365769 /* sure-universal-assignment-redux-v0.1UITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		625D18F52D933DBE00365769 /* sure-universal-assignment-redux-v0.1 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 625D191A2D933DBF00365769 /* Build configuration list for PBXNativeTarget "sure-universal-assignment-redux-v0.1" */;
+			buildPhases = (
+				625D18F22D933DBE00365769 /* Sources */,
+				625D18F32D933DBE00365769 /* Frameworks */,
+				625D18F42D933DBE00365769 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				625D18F82D933DBE00365769 /* sure-universal-assignment-redux-v0.1 */,
+			);
+			name = "sure-universal-assignment-redux-v0.1";
+			packageProductDependencies = (
+			);
+			productName = "sure-universal-assignment-redux-v0.1";
+			productReference = 625D18F62D933DBE00365769 /* sure-universal-assignment-redux-v0.1.app */;
+			productType = "com.apple.product-type.application";
+		};
+		625D19052D933DBF00365769 /* sure-universal-assignment-redux-v0.1Tests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 625D191D2D933DBF00365769 /* Build configuration list for PBXNativeTarget "sure-universal-assignment-redux-v0.1Tests" */;
+			buildPhases = (
+				625D19022D933DBF00365769 /* Sources */,
+				625D19032D933DBF00365769 /* Frameworks */,
+				625D19042D933DBF00365769 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				625D19082D933DBF00365769 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				625D19092D933DBF00365769 /* sure-universal-assignment-redux-v0.1Tests */,
+			);
+			name = "sure-universal-assignment-redux-v0.1Tests";
+			packageProductDependencies = (
+			);
+			productName = "sure-universal-assignment-redux-v0.1Tests";
+			productReference = 625D19062D933DBF00365769 /* sure-universal-assignment-redux-v0.1Tests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		625D190F2D933DBF00365769 /* sure-universal-assignment-redux-v0.1UITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 625D19202D933DBF00365769 /* Build configuration list for PBXNativeTarget "sure-universal-assignment-redux-v0.1UITests" */;
+			buildPhases = (
+				625D190C2D933DBF00365769 /* Sources */,
+				625D190D2D933DBF00365769 /* Frameworks */,
+				625D190E2D933DBF00365769 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				625D19122D933DBF00365769 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				625D19132D933DBF00365769 /* sure-universal-assignment-redux-v0.1UITests */,
+			);
+			name = "sure-universal-assignment-redux-v0.1UITests";
+			packageProductDependencies = (
+			);
+			productName = "sure-universal-assignment-redux-v0.1UITests";
+			productReference = 625D19102D933DBF00365769 /* sure-universal-assignment-redux-v0.1UITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		625D18EE2D933DBE00365769 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1620;
+				LastUpgradeCheck = 1620;
+				TargetAttributes = {
+					625D18F52D933DBE00365769 = {
+						CreatedOnToolsVersion = 16.2;
+					};
+					625D19052D933DBF00365769 = {
+						CreatedOnToolsVersion = 16.2;
+						TestTargetID = 625D18F52D933DBE00365769;
+					};
+					625D190F2D933DBF00365769 = {
+						CreatedOnToolsVersion = 16.2;
+						TestTargetID = 625D18F52D933DBE00365769;
+					};
+				};
+			};
+			buildConfigurationList = 625D18F12D933DBE00365769 /* Build configuration list for PBXProject "sure-universal-assignment-redux-v0.1" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 625D18ED2D933DBE00365769;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 625D18F72D933DBE00365769 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				625D18F52D933DBE00365769 /* sure-universal-assignment-redux-v0.1 */,
+				625D19052D933DBF00365769 /* sure-universal-assignment-redux-v0.1Tests */,
+				625D190F2D933DBF00365769 /* sure-universal-assignment-redux-v0.1UITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		625D18F42D933DBE00365769 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		625D19042D933DBF00365769 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		625D190E2D933DBF00365769 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		625D18F22D933DBE00365769 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		625D19022D933DBF00365769 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		625D190C2D933DBF00365769 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		625D19082D933DBF00365769 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 625D18F52D933DBE00365769 /* sure-universal-assignment-redux-v0.1 */;
+			targetProxy = 625D19072D933DBF00365769 /* PBXContainerItemProxy */;
+		};
+		625D19122D933DBF00365769 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 625D18F52D933DBE00365769 /* sure-universal-assignment-redux-v0.1 */;
+			targetProxy = 625D19112D933DBF00365769 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		625D19182D933DBF00365769 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		625D19192D933DBF00365769 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		625D191B2D933DBF00365769 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"sure-universal-assignment-redux-v0.1/Preview Content\"";
+				DEVELOPMENT_TEAM = C5B4S79D6V;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 17.6;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.sureuniversal.sure-universal-assignment-redux-v0-1";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		625D191C2D933DBF00365769 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"sure-universal-assignment-redux-v0.1/Preview Content\"";
+				DEVELOPMENT_TEAM = C5B4S79D6V;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 17.6;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.sureuniversal.sure-universal-assignment-redux-v0-1";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		625D191E2D933DBF00365769 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = C5B4S79D6V;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.sureuniversal.sure-universal-assignment-redux-v0-1Tests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/sure-universal-assignment-redux-v0.1.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/sure-universal-assignment-redux-v0.1";
+			};
+			name = Debug;
+		};
+		625D191F2D933DBF00365769 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = C5B4S79D6V;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.sureuniversal.sure-universal-assignment-redux-v0-1Tests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/sure-universal-assignment-redux-v0.1.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/sure-universal-assignment-redux-v0.1";
+			};
+			name = Release;
+		};
+		625D19212D933DBF00365769 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = C5B4S79D6V;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.sureuniversal.sure-universal-assignment-redux-v0-1UITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "sure-universal-assignment-redux-v0.1";
+			};
+			name = Debug;
+		};
+		625D19222D933DBF00365769 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = C5B4S79D6V;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.sureuniversal.sure-universal-assignment-redux-v0-1UITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "sure-universal-assignment-redux-v0.1";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		625D18F12D933DBE00365769 /* Build configuration list for PBXProject "sure-universal-assignment-redux-v0.1" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				625D19182D933DBF00365769 /* Debug */,
+				625D19192D933DBF00365769 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		625D191A2D933DBF00365769 /* Build configuration list for PBXNativeTarget "sure-universal-assignment-redux-v0.1" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				625D191B2D933DBF00365769 /* Debug */,
+				625D191C2D933DBF00365769 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		625D191D2D933DBF00365769 /* Build configuration list for PBXNativeTarget "sure-universal-assignment-redux-v0.1Tests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				625D191E2D933DBF00365769 /* Debug */,
+				625D191F2D933DBF00365769 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		625D19202D933DBF00365769 /* Build configuration list for PBXNativeTarget "sure-universal-assignment-redux-v0.1UITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				625D19212D933DBF00365769 /* Debug */,
+				625D19222D933DBF00365769 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 625D18EE2D933DBE00365769 /* Project object */;
+}
